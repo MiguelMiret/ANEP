@@ -70,6 +70,7 @@ def main():  #problema neumann
     print(Lamda)
     
 
+
     #matriz
     (A) = buildmatrix(Theta,Lamda,N)
     print(A)
